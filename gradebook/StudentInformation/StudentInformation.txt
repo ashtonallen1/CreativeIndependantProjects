@@ -1,0 +1,50 @@
+Student Name: Josh green
+Tests Taken: 6
+Average Score: 64
+Letter Grade: D
+
+Student Name: dani bo
+Tests Taken: 4
+Average Score: 73
+Letter Grade: C
+
+Student Name: Beth Bodacious
+Tests Taken: 4
+Average Score: 77
+Letter Grade: C
+
+Student Name: Ashton Allen
+Tests Taken: 4
+Average Score: 70.75
+Letter Grade: C
+
+Student Name: Ashton Allen
+Tests Taken: 3
+Average Score: 88.3333333333333
+Letter Grade: B
+
+Student Name: Quinten Campbell
+Tests Taken: 4
+Average Score: 31
+Letter Grade: F
+
+Student Name: Quinten campbell
+Tests Taken: 4
+Average Score: 34
+Letter Grade: F
+
+Student Name: fkdj fkjas
+Tests Taken: 4
+Average Score: 34.5
+Letter Grade: F
+
+Student Name: Ashton Allen
+Tests Taken: 6
+Average Score: 86.1666666666667
+Letter Grade: B
+
+Student Name: Jack trombole
+Tests Taken: 13
+Average Score: 85.6153846153846
+Letter Grade: B
+
